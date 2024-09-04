@@ -1,0 +1,10 @@
+---
+title: "A New Keynesian Preferred Habitat Model with Repo (JMP)"
+collection: research
+category: manuscripts
+permalink: /research/A New Keynesian Preferred Habitat Model with Repo
+excerpt: 'This paper develops a New Keynesian Preferred Habitat model with repo assets to account for financial and macroeconomic observations during the Global Financial Crisis (GFC) and the Covid-19 pandemic. The model features market segmentation, financial frictions, and quality preference. I show that there was a flight-to-liquidity demand for short-term Treasuries which causes endogenous convenience yields during the GFC and a flight-from-safety supply for long-term Treasuries which causes en- dogenous inconvenience yields during Covid-19. I then use the model to study the passthrough of monetary policies to asset prices and macroeconomic variables. The model equilibrium yields three key findings. Firstly, the excess return in the Treasury cash market involves risk premia and (in)convenience premia, while the excess return in the repo market includes only (in)convenience premia. Secondly, financial frictions attenuate the passthrough of conventional policy while strengthening that of QE and QT. Lastly, the efficacy of monetary policies is contingent upon the relative importance of the repo borrowing channel compared to the cash borrowing channel. These findings contribute to a deeper understanding of the monetary policy transmission mechanisms in the post-GFC era.'
+date: 2024-09-03
+paperurl: 'http://qianwu-ef.github.io/files/A New Keynesian Preferred Habitat Model with Repo.pdf'
+---
+
