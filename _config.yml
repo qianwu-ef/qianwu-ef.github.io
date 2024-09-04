@@ -21,7 +21,7 @@ repository               : "qianwu-ef/qianwu-ef.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot2.jpg"
+  avatar           : "bio_pic.png"
   name             : "Qian Wu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
