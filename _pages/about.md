@@ -9,7 +9,8 @@ redirect_from:
 
 ### Welcome to my website! I am a PhD Candidate in the Economics Department at Indiana University Bloomington. 
 
-### My research interests are macro-finance and macroeconomics.
+My research interests are macro-finance and macroeconomics.
+
 
 Contact Information: <a href='mailto:qwu2@iu.edu'>qwu2@iu.edu</a>
 
