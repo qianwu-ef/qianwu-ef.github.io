@@ -35,21 +35,13 @@ layout: default
         {% endif %}
         
  
-        {% assign date_string = page.date %}
-        {% assign date_parts = date_string | split: ", " %}
-        {% assign start_date = date_parts[0] %}
-        {% assign end_date = date_parts[1] %}
-        
-        <!-- Debug Information -->
-        <p>Debug Info: Date String: {{ date_string }}, Date Parts: {{ date_parts }}, Start Date: {{ start_date }}, End Date: {{ end_date }}</p>
 
         {% if page.collection == 'teaching' %}
-
         <p> {{ page.type }}, <i>{{ page.venue }}</i>, 
-          {% if end_date %}
-            {{ start_date | date: "%Y" }}–{{ end_date | date: "%Y" }}
+          {% if page.enddate %}
+            {{ page.startdate | date: "%Y" }}–{{ page.enddate | date: "%Y" }}
           {% else %}
-            {{ start_date | default: "1900-01-01" | date: "%Y" }}
+            {{ page.startdate | default: "1900-01-01" | date: "%Y" }}
           {% endif %}
         </p>
       {% elsif page.venue and page.date %}
