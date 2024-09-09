@@ -38,20 +38,8 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-      {% assign date_parts = page.date | split: ", " %}
-      {% assign start_date = date_parts[0] %}
-      {% assign end_date = date_parts[1] %}
-      
-      <!-- Debug Information -->
-      <p>Debug Info: Start Date: {{ start_date }}, End Date: {{ end_date }}</p>
-
         {% if post.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, 
-          {% if end_date %}
-            {{ start_date | date: "%Y" }}–{{ end_date | date: "%Y" }}
-          {% else %}
-            {{ start_date | default: "1900-01-01" | date: "%Y" }}
-          {% endif %}
+          <p> 
         </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
