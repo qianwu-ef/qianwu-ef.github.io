@@ -1,4 +1,3 @@
----
 permalink: /interests/
 title: "Meet My Cat"
 ---
