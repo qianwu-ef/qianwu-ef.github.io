@@ -42,7 +42,7 @@ layout: default
         {% assign end_date = date_parts[1] %}
         
         <!-- Debug Information -->
-        <p>Debug Info: Start Date: {{ start_date }}, End Date: {{ end_date }}</p>
+        <p>Debug Info: Page Date: {{ page.date }}</p>
 
         <p> {{ page.type }}, <i>{{ page.venue }}</i>, 
           {% if end_date %}
