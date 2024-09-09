@@ -38,6 +38,9 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+
+    
+    {% if page.collection == 'teaching' %}
     {% assign date_parts = page.date | split: ", " %}
     {% assign start_date = date_parts[0] %}
     {% assign end_date = date_parts[1] %}
@@ -45,7 +48,6 @@
     <!-- Debug Information -->
     <p>Debug Info: Start Date: {{ start_date }}, End Date: {{ end_date }}</p>
     
-    {% if page.collection == 'teaching' %}
     <p> {{ page.type }}, <i>{{ page.venue }}</i>, 
       {% if end_date %}
         {{ start_date | date: "%Y" }}–{{ end_date | date: "%Y" }}
