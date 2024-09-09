@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to my website! I am a PhD Candidate in the Economics Department at Indiana University Bloomington. 
+### Welcome to my website! 
+
+#### I am a PhD Candidate in the Economics Department at Indiana University Bloomington. I am on the 2024-2025 job market.
 
 My research interests are macro-finance and macroeconomics.
 
