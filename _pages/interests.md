@@ -1,6 +1,6 @@
 ---
 permalink: /interests/
-title: "Meet My Cat"
+title: "Meet My Cat :-)"
 ---
 
 
@@ -9,6 +9,11 @@ title: "Meet My Cat"
 ### Age: 2 years and 4 months old
 ### Hobbies: Eating, Napping, Going outside
 
-1<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/nugget1.jpg'>
 
+<br/><img src='/images/nugget2.jpg'>
+
+<br/><img src='/images/nugget3.jpg'>
+
+<br/><img src='/images/nugget4.jpg'>
 ---
