@@ -35,14 +35,15 @@ layout: default
         {% endif %}
         
  
-        
-        {% if page.collection == 'teaching' %}
-        {% assign date_parts = page.date | split: ", " %}
+        {% assign date_string = page.date %}
+        {% assign date_parts = date_string | split: ", " %}
         {% assign start_date = date_parts[0] %}
         {% assign end_date = date_parts[1] %}
         
         <!-- Debug Information -->
         <p>Debug Info: Page Date: {{ page.date }}</p>
+        
+        {% if page.collection == 'teaching' %}
 
         <p> {{ page.type }}, <i>{{ page.venue }}</i>, 
           {% if end_date %}
