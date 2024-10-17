@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<a href='https://indiana-my.sharepoint.com/:b:/g/personal/qwu2_iu_edu/Ebc51Z6DVttLvhdwSJoI-AEB3zMwEVlXmPN8BuCx6imQtA?e=eqIKIa'>Please download CV here</a>
+<a href='https://drive.google.com/file/d/1GttBoqDaoJzPs1syGWow4y4k_k6HxzVB/view?usp=sharing'>Please download CV here</a>
 
