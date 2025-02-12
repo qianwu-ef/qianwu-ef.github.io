@@ -7,7 +7,7 @@ redirect_from:
 ---
 ### Welcome to my website! 
 
-I am a PhD Candidate in the Economics Department at Indiana University Bloomington. I am on the 2024-2025 job market.
+I am a PhD Candidate in the Economics Department at Indiana University Bloomington. I am excited to join Duke Kunshan University as an Assistant Professor of Economics, starting in Fall 2025.
 
 My research interests are macro-finance and macroeconomics.
 
