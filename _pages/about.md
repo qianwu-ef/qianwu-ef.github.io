@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Welcome to my website! 
+### <a href='https://qian-wu.weebly.com/'>Please visit my new website.</a>
 
 I am a PhD Candidate in the Economics Department at Indiana University Bloomington. I am excited to join Duke Kunshan University as an Assistant Professor of Economics, starting in Fall 2025.
 
